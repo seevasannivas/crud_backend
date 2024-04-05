@@ -16,7 +16,7 @@ jobs:
 
     steps : 
 
-    - run : npm ci
+    # - run : npm ci
     - run : npm start
     
 
