@@ -5,9 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "npm test",
-    "start": "nodemon server.js",
-    "build" : "webpack --config webpack.config.js"
-  },
+    "start": "nodemon server.js"
+  }, 
   "author": "",
   "license": "ISC",
   "dependencies": {
